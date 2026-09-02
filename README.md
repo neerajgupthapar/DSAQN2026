@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ChilluQ/DSAQN2026/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/ChilluQ/DSAQN2026/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ChilluQ/DSAQN2026/tree/master/0485-max-consecutive-ones) |
+| [0739-daily-temperatures](https://github.com/ChilluQ/DSAQN2026/tree/master/0739-daily-temperatures) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ChilluQ/DSAQN2026/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ChilluQ/DSAQN2026/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ChilluQ/DSAQN2026/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ChilluQ/DSAQN2026/tree/master/0229-majority-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ChilluQ/DSAQN2026/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ChilluQ/DSAQN2026/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
