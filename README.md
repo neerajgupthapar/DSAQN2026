@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ChilluQ/DSAQN2026/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/ChilluQ/DSAQN2026/tree/master/0031-next-permutation) |
+| [0049-group-anagrams](https://github.com/ChilluQ/DSAQN2026/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ChilluQ/DSAQN2026/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ChilluQ/DSAQN2026/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChilluQ/DSAQN2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ChilluQ/DSAQN2026/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/ChilluQ/DSAQN2026/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ChilluQ/DSAQN2026/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ChilluQ/DSAQN2026/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/ChilluQ/DSAQN2026/tree/master/0496-next-greater-element-i) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ChilluQ/DSAQN2026/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ChilluQ/DSAQN2026/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ChilluQ/DSAQN2026/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ChilluQ/DSAQN2026/tree/master/0169-majority-element) |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ChilluQ/DSAQN2026/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ChilluQ/DSAQN2026/tree/master/0739-daily-temperatures) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/ChilluQ/DSAQN2026/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
