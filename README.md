@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ChilluQ/DSAQN2026/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChilluQ/DSAQN2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ChilluQ/DSAQN2026/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChilluQ/DSAQN2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ChilluQ/DSAQN2026/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ChilluQ/DSAQN2026/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/ChilluQ/DSAQN2026/tree/master/0283-move-zeroes) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ChilluQ/DSAQN2026/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ChilluQ/DSAQN2026/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ChilluQ/DSAQN2026/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChilluQ/DSAQN2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ChilluQ/DSAQN2026/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ChilluQ/DSAQN2026/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ChilluQ/DSAQN2026/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChilluQ/DSAQN2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Brainteaser
 |  |
 | ------- |
