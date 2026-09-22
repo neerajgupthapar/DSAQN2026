@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ChilluQ/DSAQN2026/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChilluQ/DSAQN2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ChilluQ/DSAQN2026/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/ChilluQ/DSAQN2026/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/ChilluQ/DSAQN2026/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/ChilluQ/DSAQN2026/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ChilluQ/DSAQN2026/tree/master/0485-max-consecutive-ones) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/ChilluQ/DSAQN2026/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChilluQ/DSAQN2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ChilluQ/DSAQN2026/tree/master/0209-minimum-size-subarray-sum) |
 ## Brainteaser
 |  |
 | ------- |
@@ -143,5 +145,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ChilluQ/DSAQN2026/tree/master/0209-minimum-size-subarray-sum) |
 | [3903-smallest-stable-index-i](https://github.com/ChilluQ/DSAQN2026/tree/master/3903-smallest-stable-index-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ChilluQ/DSAQN2026/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
