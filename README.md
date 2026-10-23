@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ChilluQ/DSAQN2026/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ChilluQ/DSAQN2026/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChilluQ/DSAQN2026/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ChilluQ/DSAQN2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ChilluQ/DSAQN2026/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ChilluQ/DSAQN2026/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ChilluQ/DSAQN2026/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ChilluQ/DSAQN2026/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ChilluQ/DSAQN2026/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/ChilluQ/DSAQN2026/tree/master/0292-nim-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ChilluQ/DSAQN2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ChilluQ/DSAQN2026/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
