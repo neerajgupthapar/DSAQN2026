@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ChilluQ/DSAQN2026/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ChilluQ/DSAQN2026/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ChilluQ/DSAQN2026/tree/master/0496-next-greater-element-i) |
+| [0713-subarray-product-less-than-k](https://github.com/ChilluQ/DSAQN2026/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/ChilluQ/DSAQN2026/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChilluQ/DSAQN2026/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChilluQ/DSAQN2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ChilluQ/DSAQN2026/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChilluQ/DSAQN2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChilluQ/DSAQN2026/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/ChilluQ/DSAQN2026/tree/master/0713-subarray-product-less-than-k) |
 ## Brainteaser
 |  |
 | ------- |
@@ -148,9 +150,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ChilluQ/DSAQN2026/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/ChilluQ/DSAQN2026/tree/master/0713-subarray-product-less-than-k) |
 | [3903-smallest-stable-index-i](https://github.com/ChilluQ/DSAQN2026/tree/master/3903-smallest-stable-index-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ChilluQ/DSAQN2026/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/ChilluQ/DSAQN2026/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
